@@ -21,15 +21,13 @@
 ## ⏳ Installation & Usage
 
 ### **1⃣ Run via PowerShell (One-Line Command)**
-To **download & run** directly:
+To **download & run** directly (In the dir where .md files are present):
 ```powershell
 irm "https://raw.githubusercontent.com/MuhammadSohaibHassan/mdToPdf/refs/heads/main/mdToPdf.ps1" | iex
 ```
-_(Replace `"RAW_SCRIPT_URL"` with the actual script URL on GitHub)_
-
 ### **2⃣ Manual Usage**
 1. **Download** `mdToPdf.ps1`
-2. Open PowerShell in the script directory.
+2. Open PowerShell in the directory where .md files are present.
 3. Run:
    ```powershell
    .\mdToPdf.ps1
@@ -81,5 +79,5 @@ MIT License - Free for use and modification.
 ---
 
 ## 💡 Author
-Developed by **[Your GitHub Username]**.
+Developed by **[MuhammadSohaibHassan]**.
 
