@@ -79,5 +79,5 @@ MIT License - Free for use and modification.
 ---
 
 ## 💡 Author
-Developed by **[MuhammadSohaibHassan]**.
+Developed by **MuhammadSohaibHassan**.
 
