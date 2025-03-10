@@ -23,7 +23,7 @@
 ### **1⃣ Run via PowerShell (One-Line Command)**
 To **download & run** directly:
 ```powershell
-https://raw.githubusercontent.com/MuhammadSohaibHassan/mdToPdf/refs/heads/main/mdToPdf.ps1
+irm "https://raw.githubusercontent.com/MuhammadSohaibHassan/mdToPdf/refs/heads/main/mdToPdf.ps1" | iex
 ```
 _(Replace `"RAW_SCRIPT_URL"` with the actual script URL on GitHub)_
 
